@@ -1,0 +1,10 @@
+@startuml
+
+'''classes
+class Telecommande
+{
+}
+
+'''relations
+
+@enduml

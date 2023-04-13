@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b0be4747-b880-429a-b3e5-e512c70f6bff" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/2023_coo_domotique_letondal3u/src/Appareil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2023_coo_domotique_letondal3u/src/Cheminee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2023_coo_domotique_letondal3u/src/ChemineeAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2023_coo_domotique_letondal3u/src/Lampe.puml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2023_coo_domotique_letondal3u/src/TelecommandeGraphique.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uml.puml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023_coo_domotique_letondal3u/src/Hifi.java" beforeDir="false" afterPath="$PROJECT_DIR$/2023_coo_domotique_letondal3u/src/Hifi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023_coo_domotique_letondal3u/src/Lampe.java" beforeDir="false" afterPath="$PROJECT_DIR$/2023_coo_domotique_letondal3u/src/Lampe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023_coo_domotique_letondal3u/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/2023_coo_domotique_letondal3u/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023_coo_domotique_letondal3u/src/Telecommande.java" beforeDir="false" afterPath="$PROJECT_DIR$/2023_coo_domotique_letondal3u/src/Telecommande.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023_coo_domotique_letondal3u/test/LampeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023_coo_domotique_letondal3u/test/TelecommandeTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="UML Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/2023_coo_domotique_letondal3u" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="6378ac5b-0f9b-4199-bc21-309d32f64fe2" />
+        <option name="url" value="git@github.com:TheiLooK/2023_coo_domotique_letondal3u.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2O5SuM9Qq7ZQWPGWDmIzYY0WhtH" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultPlantUmlFileTemplate": "UML Class",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Documents/Cours/COO/2023_coo_domotique_letondal3u",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.JavaFX",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0be4747-b880-429a-b3e5-e512c70f6bff" name="Changes" comment="" />
+      <created>1680849170152</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680849170152</updated>
+      <workItem from="1680849172323" duration="2181000" />
+      <workItem from="1680860561619" duration="1518000" />
+      <workItem from="1680956319331" duration="27000" />
+      <workItem from="1681217117580" duration="113000" />
+      <workItem from="1681217399716" duration="173000" />
+      <workItem from="1681217637801" duration="101000" />
+      <workItem from="1681217749937" duration="2528000" />
+      <workItem from="1681222873111" duration="41000" />
+      <workItem from="1681395872316" duration="2904000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
